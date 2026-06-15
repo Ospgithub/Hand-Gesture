@@ -142,7 +142,7 @@ The model achieves stable, real-time finger counting with consistent performance
 
 ## 🏷️ Tags
 
-`computer-vision` `mediapipe` `hand-gesture` `finger-counting` `opencv` `flask` `real-time` `machine-learning` `python` `prodigy-ml`
+`computer-vision` `mediapipe` `hand-gesture` `finger-counting` `opencv` `flask` `real-time` `machine-learning` `python` 
 
 ---
 
